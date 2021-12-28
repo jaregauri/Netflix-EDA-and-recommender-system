@@ -22,7 +22,17 @@ wordcloud based on title
 
 top countries with highest number of tv shows and movies
 
+In which month should a producer launch his movie or tv show? It should be ideally during a month when there are least number of shows and movies being launched on netflix.
+
+Analysis of movie duration
+
+TV SHOWS WITH HIGHEST NUMBER OF SEASONS
+
+content in different countries based on directors
+
 ## Recommender system using TFIDF from Sklearn
 
-built using TfidfVectorizer
+Content based filtering built using TfidfVectorizer only on description
+
+Content based filtering on the following factors: Title, Cast, Director, Listed in, Plot
 
