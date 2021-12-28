@@ -36,3 +36,11 @@ Content based filtering built using TfidfVectorizer only on description
 
 Content based filtering on the following factors: Title, Cast, Director, Listed in, Plot
 
+
+## Reference
+
+https://www.kaggle.com/niharika41298/netflix-visualizations-recommendation-eda#WordCloud-for-Genres.
+
+https://www.kaggle.com/mysarahmadbhat/eda-on-netflix
+
+https://www.kaggle.com/aayushmishra1512/netflix-data-analysis-and-visualization
